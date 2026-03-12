@@ -2,17 +2,19 @@
 layout: default
 ---
 
-## About Me
+## Herzlich Willkommen
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Das gemeinsame Auftreten von ADHS und der Autismusspektrumsstörung ist eine große Herausforderung für alle Betroffenen. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Mit der späten Diagnose im Leben sind wir vor neue Herausforderungen gestellt und versuchen uns damit in Alltag und Umfeld zurechtzufinden.
+<!-- [GitHub](https://github.com/bk2dcradle/researcher) -->
 
-## Research Interest
+## Selbsthilfegruppe
+Wir treffen uns jeden 2. und 4. Montag im Monat um 19.00 Uhr in den Räumlichkeiten der [KIBIS Kiel](https://kibis-kiel.de/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Dort tauschen wir uns über unsere Lebenslage aus, geben unsere Erfahrungen wieder, erkunden uns über Unterstützungsmöglichkeiten. Dabei bleiben wir stets wertschätzend, respektvoll und einander zugewandt.
 
 ## Publications
 
