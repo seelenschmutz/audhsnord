@@ -2,18 +2,21 @@
 layout: default
 ---
 
-## About Me
+## Herzlich Willkommen
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Spät diagnostiziert, vieles aus der Vergangenheit erklärt sich, und heute ist es trotzdem anstrengend  - die Kombination von ADHS und der Autismus-Spektrum-Störung (AuDHS) ist für Erwachsene eine besondere Herausforderung im Alltag und im eigenen Umfeld.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+In dieser Selbsthilfegruppe tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, geben uns Unterstützung und lernen mehr über unsere neue Situation
 
-## Research Interest
+## Selbsthilfegruppe AuDHS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22.
 
+Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. 
+
+<!--
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
@@ -43,3 +46,4 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+-->
