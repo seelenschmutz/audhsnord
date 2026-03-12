@@ -4,8 +4,6 @@ layout: default
 
 ## Herzlich Willkommen
 
-<!-- <img class="profile-picture" src="sherlock.jpg"> -->
-
 Spät diagnostiziert, vieles aus der Vergangenheit erklärt sich, und heute ist es trotzdem anstrengend  - die Kombination von ADHS und der Autismus-Spektrum-Störung (AuDHS) ist für Erwachsene eine besondere Herausforderung im Alltag und im eigenen Umfeld.
 
 In dieser Selbsthilfegruppe tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, geben uns Unterstützung und lernen mehr über unsere neue Situation
@@ -16,7 +14,7 @@ Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegen
 
 Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. 
 
-<!--
+
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
@@ -46,4 +44,4 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
--->
+
