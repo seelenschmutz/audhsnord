@@ -17,8 +17,6 @@ sass:
 
 nav:
  - name: "Selbsthilfegruppe"
-   link: "/researcher/"
- # - name: "Resume"
- #  link: "resume.pdf"
+   link: "shginfo"
  - name: "Impressum"
-   link: "contact"
+   link: "impressum"
