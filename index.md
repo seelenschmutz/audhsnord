@@ -16,7 +16,7 @@ Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und we
 
 ## Anmeldung
 
-Bitte melde Dich vorab per E-Mail, damit Du in den Verteiler aufgenommen wirst.
+Bitte melde Dich vorab per E-Mail an [kopfkirmes@proton.me](mailto:kopfkirmes@proton.me), damit Du in den Verteiler aufgenommen wirst.
 
 Bis bald
 Sebastian
