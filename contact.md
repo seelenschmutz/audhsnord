@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* E-Mail: [kopfkirmes@proton.me](mailto:kopfkirmes@proton.me)
 
-* Phone: [+91-123123](tel:+91-123123)
+# Impressum
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+Hier text einfügen.
