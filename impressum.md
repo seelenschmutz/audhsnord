@@ -16,8 +16,8 @@ Vertreten durch:
 Sebastian Arzinger
 
 Kontakt:
-Telefon: 0431-90885177
-E-Mail: kopfkirmes@proton.me
+Telefon: 0431 - 90 88 51 77
+E-Mail: impressum@audhsnord.de 
 
 ## Verbraucherstreitbeilegung / Universalschlichtungsstelle
 Wir nehmen nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und sind dazu auch nicht verpflichtet.
