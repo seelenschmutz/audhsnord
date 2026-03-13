@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Herzlich Willkommen
+## Autismus und ADHS - Ausschluss oder Superkraft?
 
-Spät diagnostiziert, vieles aus der Vergangenheit erklärt sich, und heute ist es trotzdem anstrengend  - die Kombination von ADHS und der Autismus-Spektrum-Störung (AuDHS) ist für Erwachsene eine besondere Herausforderung im Alltag und im eigenen Umfeld.
+Warum nicht beides?
 
-In dieser Selbsthilfegruppe tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, geben uns Unterstützung und lernen mehr über unsere neue Situation
+* Chaotisch oder klar strukturiert? 
+* Spontan oder unverstanden? 
+* Schnell abgelenkt oder stundenlanger Fokus? 
+
+Was wie Gegensatz und Widerspruch wirkt, sind tägliche Herausforderungen für uns. Als spät diagnostizierte Erwachsene merken wir, dass wir sehr lange ganz gut funktionieren können. Und dass wir oft keine Kraft mehr haben, den Herausforderungen von Alltag und Umfeld gerecht zu werden.
+In dieser Selbsthilfegruppe wirst du dich ohne lange Erklärungen schnell zurechtfinden. Wir alle kennen das  Wechselbad der Diagnosen und suchen unseren Platz in einem Umfeld, dass deine Welt immer weniger versteht.
+Bei den Treffen tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, geben uns Unterstützung und lernen mehr über unsere neue Situation.
 
 ## Selbsthilfegruppe AuDHS
 
 Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22.
 
-Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. 
+Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. Für mehr Verständnis für dich (selbst)!
 
 ## Anmeldung
 
