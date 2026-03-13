@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Home "
+ - name: "Home" 
    link: "index"
- - name: "Selbsthilfegruppe "
+ - name: "Selbsthilfegruppe" 
    link: "shginfo"
- - name: "Impressum "
+ - name: "Impressum" 
    link: "impressum"
