@@ -1,6 +1,6 @@
 title: AuDHS Nord
-url: "http://www.audhsnord.de"
-baseurl: "/audhsnord"
+url: "http://www.audhsnord.de/audhsnord/"
+ #baseurl: "/audhsnord"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
