@@ -26,8 +26,7 @@ Für mehr Verständnis für dich (selbst)!
 
 ## Anmeldung
 
-Bitte melde Dich vorab per E-Mail an [kopfkirmes@proton.me](mailto:kopfkirmes@proton.me), damit Du in den Verteiler aufgenommen wirst.
+Bitte melde Dich vorab per [E-Mail](mailto:anmeldung@audhsnord.de), damit Du in den Verteiler aufgenommen wirst.
 
-Bis bald
-
+Bis bald,
 Sebastian
