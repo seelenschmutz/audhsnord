@@ -29,4 +29,5 @@ Für mehr Verständnis für dich (selbst)!
 Bitte melde Dich vorab per E-Mail an [kopfkirmes@proton.me](mailto:kopfkirmes@proton.me), damit Du in den Verteiler aufgenommen wirst.
 
 Bis bald
+
 Sebastian
