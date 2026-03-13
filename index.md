@@ -14,7 +14,7 @@ Was wie Gegensatz und Widerspruch wirkt, sind tägliche Herausforderungen für u
 
 In dieser Selbsthilfegruppe wirst du dich ohne lange Erklärungen schnell zurechtfinden. Wir alle kennen das  Wechselbad der Diagnosen und suchen unseren Platz in einem Umfeld, dass deine Welt immer weniger versteht.
 
-Bei den Treffen tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, geben uns Unterstützung und lernen mehr über unsere neue Situation.
+Bei den Treffen tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, unterstützen uns gegenseitig und lernen mehr über uns.
 
 ## Selbsthilfegruppe AuDHS
 
