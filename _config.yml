@@ -1,5 +1,5 @@
 title: AuDHS Nord
-url: "https://seelenschmutz.github.io"
+url: "http://www.audhsnord.de"
 baseurl: "/audhsnord"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://www.audhs-nord.de"
+footer_url: "https://www.audhsnord.de"
 footer_text: "Impressum"
 
 sass:
