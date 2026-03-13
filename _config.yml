@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://www.audhsnord.de"
+footer_url: "https://audhsnord.de"
 footer_text: "Impressum"
 
 sass:
