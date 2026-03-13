@@ -1,5 +1,9 @@
+---
+layout: default
+is_contact: true
+---
 
-# Informationen zur Selbsthilfegruppe
+## Informationen zur Selbsthilfegruppe
 
 Unser Ziel ist es, einen geschützten, respektvollen Raum zu schaffen und zu erhalten, in dem sich Menschen mit ähnlichen Erfahrungen gegenseitig stärken, Verständnis finden und gemeinsam Strategien für den Alltag entwickeln können. Alle sind gemeinsam und gleichberechtigt für ein gelingendes Miteinander verantwortlich.
 Diese Gruppe kann keinen Ersatz für eine professionelle Therapie - sei es psychotherapeutisch, medikamentös oder anderweitig - bieten. Wir tauschen uns aus, teilen persönliche Erfahrungen und unterstützen uns gegenseitig.
