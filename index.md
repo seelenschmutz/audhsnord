@@ -12,7 +12,7 @@ Warum nicht beides?
 
 Was wie Gegensatz und Widerspruch wirkt, sind tägliche Herausforderungen für uns. Als spät diagnostizierte Erwachsene merken wir, dass wir sehr lange ganz gut funktionieren können. Und dass wir oft keine Kraft mehr haben, den Herausforderungen von Alltag und Umfeld gerecht zu werden.
 
-In dieser Selbsthilfegruppe wirst du dich ohne lange Erklärungen schnell zurechtfinden. Wir alle kennen das Wechselbad der Diagnosen und suchen unseren Platz in einem Umfeld, dass unsere jeweilige Welt immer weniger versteht.
+In dieser Selbsthilfegruppe wirst du dich ohne lange Erklärungen schnell zurechtfinden. Wir alle kennen das Wechselbad der Diagnosen und suchen unseren Platz in einem Umfeld, das unsere jeweilige Welt immer weniger versteht.
 
 Bei den Treffen tauschen wir unsere Erfahrungen aus, geben einander Tipps für den Alltag, unterstützen uns gegenseitig und lernen mehr über uns.
 
