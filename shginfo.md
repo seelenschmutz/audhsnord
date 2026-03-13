@@ -10,7 +10,7 @@ Diese Gruppe kann keinen Ersatz für eine professionelle Therapie - sei es psych
 
 ## Zum gemeinsamen Umgang
 
-Es geht nicht darum, uns wechselseitig zu optimieren oder irgendwie endlich besser werden zu müssen. Wir dürfen scheitern, neu beginnen, Umwege gehen und lernen, unsere individuellen Schwächen genauso liebevoll zu achten wie unsere Stärken – so wie wir es (uns) auch (von) anderen wünschen würden. Der Austausch in der Gruppe soll helfen, immer wieder aufs neue Balance statt Perfektion zu finden – zwischen Produktivität, Spaß und Pause, Offenheit und Rückzug, Anspannung und Entspannung.
+Vorweg: Es geht nicht darum, uns wechselseitig zu optimieren oder irgendwie endlich besser werden zu müssen. Wir dürfen scheitern, neu beginnen, Umwege gehen und lernen, unsere individuellen Schwächen genauso liebevoll zu achten wie unsere Stärken – so wie wir es (uns) auch (von) anderen wünschen würden. Der Austausch in der Gruppe soll helfen, immer wieder aufs neue Balance statt Perfektion zu finden – zwischen Produktivität, Spaß und Pause, Offenheit und Rückzug, Anspannung und Entspannung.
 
 ## Termine
 
