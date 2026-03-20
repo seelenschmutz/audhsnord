@@ -1,5 +1,10 @@
 @import "vars";
 
+@font-face {
+    font-family: Montserrat;
+    src: url('_assets/fonts/static/Montserrat-Regular.ttf') format('ttf');
+}
+
 .content {
     a:hover {
         text-decoration: underline;
