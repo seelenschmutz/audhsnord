@@ -27,10 +27,11 @@
         <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
         <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
     {% endif %}
-    {% if site.twitter_username %}
+    <!--{% if site.twitter_username %}
         <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
     {% endif %}
-    <!-- Facebook Open Graph -->
+    -->
+    <!-- Facebook Open Graph 
     <meta name="og:description" content="{{ desc }}">
     <meta name="og:title" content="{{ site.title }}">
     <meta name="og:url" content="{{ url }}">
@@ -41,7 +42,8 @@
     {% if site.facebook_id %}
         <meta name="fb:admins" content="{{ site.facebook_id }}">
     {% endif %}
-    <!-- Twitter -->
+    -->
+    <!-- Twitter 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:description" content="{{ desc }}">
@@ -51,6 +53,7 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+    -->
 </head>
 <body>
     <div class="wrapper">
