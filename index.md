@@ -18,7 +18,7 @@ Bei den Treffen tauschen wir unsere Erfahrungen aus, geben einander Tipps für d
 
 ## Selbsthilfegruppe AuDHS
 
-Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22.
+Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22. Teilnahme nur nach vorheriger Anmeldung möglich.
 
 Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. 
 
