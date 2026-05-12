@@ -25,12 +25,12 @@ Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und we
 
 Datum | Beginn 
 -------|------- 
-13.04. | 19.00 Uhr
-27.04. | 19.00 Uhr 
-11.05. | 19.00 Uhr
 25.05. | 19.00 Uhr 
 08.06. | 19.00 Uhr
 22.06. | 19.00 Uhr
+13.07. | 19.00 Uhr 
+27.07. | 19.00 Uhr
+10.08. | 19.00 Uhr
 
 ---
 
