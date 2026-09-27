@@ -25,11 +25,11 @@ Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und we
 
 Datum | Beginn 
 -------|------- 
-08.06. | 19.00 Uhr
-22.06. | 19.00 Uhr
-13.07. | 19.00 Uhr 
-27.07. | 19.00 Uhr
-10.08. | 19.00 Uhr
+12.10. | 19.00 Uhr
+26.10. | 19.00 Uhr
+09.11. | 19.00 Uhr 
+23.11. | 19.00 Uhr
+14.12. | 19.00 Uhr
 
 ---
 
