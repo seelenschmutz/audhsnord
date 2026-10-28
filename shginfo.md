@@ -25,11 +25,16 @@ Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und we
 
 Datum | Beginn 
 -------|------- 
-12.10. | 19.00 Uhr
-26.10. | 19.00 Uhr
-09.11. | 19.00 Uhr 
-23.11. | 19.00 Uhr
-14.12. | 19.00 Uhr
+09.11. | 18.30 Uhr 
+23.11. | 18.30 Uhr
+14.12. | 18.30 Uhr
+28.12. | nach Absprache
+11.01. | 18.30 Uhr
+25.01. | 18.30 Uhr
+08.02. | 18.30 Uhr
+22.02. | 18.30 Uhr
+08.03. | 18.30 Uhr
+22.03. | 18.30 Uhr
 
 ---
 
