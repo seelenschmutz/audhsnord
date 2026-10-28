@@ -19,7 +19,7 @@ Der Austausch in der Gruppe soll helfen, immer wieder aufs neue Balance statt Pe
 
 ## Termine
 
-Wir treffen uns jeden 2. und 4. Montag im Monat um 19 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22.
+Wir treffen uns jeden 2. und 4. Montag im Monat um 18.30 Uhr in den zentral gelegenen Räumlichkeiten der [KIBIS](https://kibis-kiel.de/) in Kiel, Lerchenstraße 22.
 
 Die Treffen dauern zwei Stunden, in denen wir uns respektvoll miteinander und wertschätzend über die unterschiedlichen Herausforderungen unterhalten, die AuDHS für uns und unser Umfeld mit sich bringt. Für mehr Verständnis für dich (selbst)!
 
